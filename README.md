@@ -1,3 +1,5 @@
-My first 2D game
+# 2D game - first project
 
-Click to play:  https://play.unity.com/mg/other/project1_lostgirl-1
+Search Project1_LostGirl at https://play.unity.com/
+Or [click](https://play.unity.com/en/games/2a8ee78a-6a58-411d-833f-5f743f655e5f/project1lostgirl)
+
